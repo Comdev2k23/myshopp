@@ -1,0 +1,35 @@
+/* CSS (e.g., in a separate CSS file or a styled-components styled component) */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* If you want items to wrap to the next line when the container is too small */
+    justify-content: space-between; /* Adjust this as needed */
+    align-items: center; /* Adjust this as needed */
+    padding-top: 50px;
+   
+  }
+  
+  .flex-item {
+    width: 20rem;
+    margin: 0;
+    
+    
+    /* Customize the styling of individual items within the flex container */
+    margin: 10px; /* Add margins as needed */
+  }
+  .img-icon {
+    width: 20rem;
+  }
+  
+
+.button {
+    align-items: center;
+    color: white;
+    background-color: #7D7C7C;
+    border-width: 0mm;
+    border-radius: 5px;
+    padding: 5px;
+   align-content: center;
+}
+.p-price {
+    font-weight: bold;
+}
