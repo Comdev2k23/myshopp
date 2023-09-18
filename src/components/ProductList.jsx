@@ -57,6 +57,7 @@ import React from 'react'
           id: 8,
           name: 'Colgate',
           description: 'Colgate Fresh GRF with Amino Acid Toothpaste 159 g - 2s',
+          price: 8.00,
           src: 'https://southstardrug.com.ph/cdn/shop/products/60072_8850006320518_COLGATETPFRESHGRF50ML_74GTUBE_01_1200x630.jpg?v=1683806814'
         }
       ]
